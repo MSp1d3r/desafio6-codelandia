@@ -9,4 +9,4 @@
 - ReactJS
 
 ---
-![preview](loki-1.png)
+![preview](loki.png)
